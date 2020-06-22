@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 ds7337_nlp.code-workspace
+.vscode
+*.model
+logs
